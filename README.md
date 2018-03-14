@@ -1,3 +1,4 @@
+[![Waffle.io - Columns and their card count](https://badge.waffle.io/Dynamic-Gravity/l1-wiki.png?columns=all)](https://waffle.io/Dynamic-Gravity/l1-wiki?utm_source=badge)
 # unofficial-l1-wiki
 
 > A Vue.js project
