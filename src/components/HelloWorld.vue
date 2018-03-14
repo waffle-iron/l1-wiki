@@ -11,6 +11,7 @@
             </small>
           </footer>
         </blockquote>
+        <vue-markdown>i am a ~~tast~~ **test**.</vue-markdown>
       </v-layout>
     </v-slide-y-transition>
   </v-container>
