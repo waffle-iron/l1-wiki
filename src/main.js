@@ -5,8 +5,10 @@ import App from './App'
 import router from './router'
 import Vuetify from 'vuetify'
 import 'vuetify/dist/vuetify.min.css'
+import VueMarkdown from 'vue-markdown'
 
 Vue.use(Vuetify)
+Vue.component('vue-markdown', VueMarkdown)
 
 Vue.config.productionTip = false
 
