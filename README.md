@@ -2,6 +2,8 @@
 
 > A Vue.js project
 
+This is my contribution to the [L1 community](https://level1techs.com/)
+
 ## Build Setup
 
 ``` bash
